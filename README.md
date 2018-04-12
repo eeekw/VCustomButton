@@ -1,9 +1,5 @@
 # VCustomButton
 自定义Button图文排列
-# 截图
-![](https://github.com/silencervic/VCustomButton/screenshots/screenshot1.png)
-![](https://github.com/silencervic/VCustomButton/screenshots/screenshot2.png)
-![](https://github.com/silencervic/VCustomButton/screenshots/screenshot3.png)
 # 如何使用
     let button = VNormalButton()
     //设置图文排列方式
@@ -16,3 +12,8 @@
     button.frame = CGRect(x: 100, y: 100, width: 100, height: 100)
     //autolayout布局省略
     button.sizeToFit()
+    
+# 截图
+<img width=50% height=50% src="https://github.com/silencervic/VCustomButton/blob/master/screenshots/screenshot1.png"/>
+<img width=50% height=50% src="https://github.com/silencervic/VCustomButton/blob/master/screenshots/screenshot2.png"/>
+<img width=50% height=50% src="https://github.com/silencervic/VCustomButton/blob/master/screenshots/screenshot3.png"/>
